@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello from this side of the world! 👋
+Analyst| Reader| Writer| Economist
 
-<!--
-**Arshmeet-kaur/Arshmeet-kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring the realms of coding through a collaborative lens, if I may. 
+Already working with R programming, I am interested in diverting to other platforms.
 
-Here are some ideas to get you started:
+Something about me: 
+- I am based in Reading, United Kingdom. 
+- 🌱 I’m currently learning NLP using R.
+- 📫 How to reach me: arshmeet2515@gmail.com
+- Fun Fact: Economics is more than just assumptions!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
